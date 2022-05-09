@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/daraga-albay-candidates/static/css/main.439a5f40.css",
-    "main.js": "/daraga-albay-candidates/static/js/main.2c698d38.js",
+    "main.css": "/daraga-albay-candidates/static/css/main.191b7313.css",
+    "main.js": "/daraga-albay-candidates/static/js/main.5957214a.js",
     "static/js/787.e25a0411.chunk.js": "/daraga-albay-candidates/static/js/787.e25a0411.chunk.js",
     "static/media/bichara.png": "/daraga-albay-candidates/static/media/bichara.91fce96abc0f979af284.png",
     "static/media/goyena-gil.jpg": "/daraga-albay-candidates/static/media/goyena-gil.3ef80cdfc79ed22170d5.jpg",
@@ -53,12 +53,12 @@
     "static/media/unknown-man.jpg": "/daraga-albay-candidates/static/media/unknown-man.e442eeeb6d9f583833a1.jpg",
     "static/media/unknown-woman.jpg": "/daraga-albay-candidates/static/media/unknown-woman.22e997195c515591b86d.jpg",
     "index.html": "/daraga-albay-candidates/index.html",
-    "main.439a5f40.css.map": "/daraga-albay-candidates/static/css/main.439a5f40.css.map",
-    "main.2c698d38.js.map": "/daraga-albay-candidates/static/js/main.2c698d38.js.map",
+    "main.191b7313.css.map": "/daraga-albay-candidates/static/css/main.191b7313.css.map",
+    "main.5957214a.js.map": "/daraga-albay-candidates/static/js/main.5957214a.js.map",
     "787.e25a0411.chunk.js.map": "/daraga-albay-candidates/static/js/787.e25a0411.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.439a5f40.css",
-    "static/js/main.2c698d38.js"
+    "static/css/main.191b7313.css",
+    "static/js/main.5957214a.js"
   ]
 }
