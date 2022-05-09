@@ -12,9 +12,11 @@ import CongSecDist from './components/congSecDist';
 import CongThirdDist from './components/congThirdDist';
 import MunCouncilor from './components/munDaragaCandidates';
 import Footer from './components/footer';
+import Result from './components/Results'
 function App() {
   return (
     <div className="App">
+      <Result />
       <Header />
       <Governor />
       <ViceGov />
