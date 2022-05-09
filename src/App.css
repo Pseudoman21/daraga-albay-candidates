@@ -56,9 +56,57 @@ img:hover {
   transition: .3s;
 }
 
+.scrolltotop {
+  background: #636ab87a none repeat scroll 0 0;
+  bottom: 30px;
+  cursor: pointer;
+  display: inline-block;
+  height: 40px;
+  position: fixed;
+  right: 15px;
+  text-align: center;
+  width: 40px;
+}
+
+a.scrolltotop {
+  text-decoration: none;
+}
+
+.scrolltotop h1 {
+  position: relative;
+  margin-top: 7px !important;
+}
+
+.pres {
+  height: 1520px;
+}
+
+.vice-pres {
+  height: 1520px;
+}
+
+.senate {
+  height: 1544px; 
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@media (max-width: 494px) {
+  
+  .pres {
+    height: 1435px;
+  }
+
+  .vice-pres {
+    height: 1320px;
+  }
+
+  .senate {
+    height: 2520px !important;
   }
 }
 

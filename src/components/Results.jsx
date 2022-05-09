@@ -1,9 +1,9 @@
 import React from "react";
 
 const Results = () => {
-        const iframeSource = '<iframe loading="lazy" src="https://ph.rappler.com/elections/2022/races/embed/results/president" width="100%" height="1520px" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>';
-        const iframeSourceVp = '<iframe loading="lazy" src="https://ph.rappler.com/elections/2022/races/embed/results/vice-president" width="100%" height="1520px" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>';
-        const iframeSourceSen = '<iframe loading="lazy" src="https://ph.rappler.com/elections/2022/races/embed/results/senator" width="100%" height="1520px" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>';
+        const iframeSource = `<iframe loading="lazy" class="pres" src="https://ph.rappler.com/elections/2022/races/embed/results/president" width="100%" height="1520px" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>`;
+        const iframeSourceVp = `<iframe loading="lazy" class="vice-pres" src="https://ph.rappler.com/elections/2022/races/embed/results/vice-president" width="100%" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>`;
+        const iframeSourceSen = `<iframe loading="lazy" class="senate" src="https://ph.rappler.com/elections/2022/races/embed/results/senator" width="100%" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" className="mt-2 mce_SELRES_start"></span></iframe>`;
 
         return (
             <>
