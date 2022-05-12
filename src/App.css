@@ -52,7 +52,7 @@ img {
 }
 
 img:hover {
-  filter: none;
+  /* filter: none; */
   transition: .3s;
 }
 
@@ -87,6 +87,14 @@ a.scrolltotop {
 
 .senate {
   height: 1544px; 
+}
+
+.colored {
+  filter: none !important;
+}
+
+.colored:hover {
+  border-radius: 10px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

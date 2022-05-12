@@ -16,7 +16,7 @@ import Result from './components/Results'
 function App() {
   return (
     <div className="App">
-      <Result />
+      {/* <Result /> */}
       <Header />
       <Governor />
       <ViceGov />

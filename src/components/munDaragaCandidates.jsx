@@ -29,7 +29,7 @@ const munDaragaCandidates = () => {
                         <div className="col-lg-12">
                             <div className="row justify-content-center p-4">
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={baldo} alt="baldo" className="img-fluid"/>
+                                    <img src={baldo} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>1 - BALDO, AWIN (PROMDI)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
@@ -48,7 +48,7 @@ const munDaragaCandidates = () => {
                         <div className="col-lg-12">
                             <div className="row justify-content-center p-4">
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={jungie} alt="baldo" className="img-fluid"/>
+                                    <img src={jungie} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>1 - JAUCIAN, JUNGIE (PDPLBN)</p>
                                 </div>
                             </div>
@@ -63,23 +63,23 @@ const munDaragaCandidates = () => {
                         <div className="col-lg-12">
                             <div className="row justify-content-center p-4">
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={archie} alt="baldo" className="img-fluid"/>
+                                    <img src={archie} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>1 - BAJAMUNDI, ARCHIE (PDPLBN)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={baylon} alt="baldo" className="img-fluid"/>
+                                    <img src={baylon} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>2 - BAYLON, CARLOS (PDPLBN)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={stevie} alt="baldo" className="img-fluid"/>
+                                    <img src={stevie} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>3 - BICHARA, STEVIE (NP)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={pilo} alt="baldo" className="img-fluid"/>
+                                    <img src={pilo} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>4 - DE LUMEN, PILO (PDPLBN)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={julius} alt="baldo" className="img-fluid"/>
+                                    <img src={julius} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>5 - DURAN, JULIUS (KB)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
@@ -95,7 +95,7 @@ const munDaragaCandidates = () => {
                                     <p className="mt-2"><span></span>8 - LUBIANO, TOTO (IND)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={bob} alt="baldo" className="img-fluid"/>
+                                    <img src={bob} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>9 - MAGALONA, BOB (PDPLBN)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
@@ -115,7 +115,7 @@ const munDaragaCandidates = () => {
                                     <p className="mt-2"><span></span>13 - MANSOS, PANYO (PROMDI)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={marcellana} alt="baldo" className="img-fluid"/>
+                                    <img src={marcellana} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>14 - MARCELLANA, JOEY (AKSYON)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
@@ -123,7 +123,7 @@ const munDaragaCandidates = () => {
                                     <p className="mt-2"><span></span>15 - MARCELLANA, LEAH (IND)</p>
                                 </div>
                                 <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                    <img src={nunez} alt="baldo" className="img-fluid"/>
+                                    <img src={nunez} alt="baldo" className="img-fluid colored"/>
                                     <p className="mt-2"><span></span>16 - NUÑEZ, JUN (PDPLBN)</p>
                                 </div>
                             </div>

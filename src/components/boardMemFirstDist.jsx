@@ -13,19 +13,19 @@ const boardMemFirstDist = () => {
                     <div className="col-lg-12">
                         <div className="row justify-content-center p-4">
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={glenda} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={glenda} alt="Candidate" className="img-fluid colored"/>
                                 <p className="mt-2"><span></span>1 - BONGAO, ATE GLENDA (LP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={borjal} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={borjal} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>2 - BORJAL, DENNIESIANO (IND)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={rey} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={rey} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>3 - BRAGAIS, REY (LP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={ziga} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={ziga} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>4 - ZIGA, VICTOR JR. (LAKAS)</p>
                             </div>
                         </div>

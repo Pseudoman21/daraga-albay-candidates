@@ -12,19 +12,19 @@ const congFirstDist = () => {
                     <div className="col-lg-12">
                         <div className="row justify-content-center p-4">
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={bruce} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={bruce} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>1 - BRUCE, NARDS (PGRP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={edcel} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={edcel} alt="Candidate" className="img-fluid colored"/>
                                 <p className="mt-2"><span></span>2 - LAGMAN, EDCEL (LP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={rebecca} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={rebecca} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>3 - QUIJANO, REBECCA (IND)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={villar} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={villar} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>4 - VILLAR, ADELA PLESHETTE (IND)</p>
                             </div>
                         </div>

@@ -10,11 +10,11 @@ const congThirdDist = () => {
                     <div className="col-lg-12">
                         <div className="row justify-content-center p-4">
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={fernando} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={fernando} alt="Candidate" className="img-fluid colored"/>
                                 <p className="mt-2"><span></span>1 - CABREDO, FERNANDO (NUP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={lim} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={lim} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>2 - LIM, RENO (IND)</p>
                             </div>
                         </div>

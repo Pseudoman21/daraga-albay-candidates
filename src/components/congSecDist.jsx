@@ -13,23 +13,23 @@ const congSecDist = () => {
                     <div className="col-lg-12">
                         <div className="row justify-content-center p-4">
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={arao} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={arao} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>1 - ARAO, DOMING (IND)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={deleoz} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={deleoz} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>2 - DE LEOZ, OPINYON BICOL (PLM)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={gil} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={gil} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>3 - GOYENA, GIL (IND)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={danilo} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={danilo} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>4 - MARAVILLAS, DANILO (KTPNAN)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={joey} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={joey} alt="Candidate" className="img-fluid colored"/>
                                 <p className="mt-2"><span></span>5 - SALCEDA, JOEY (PDPLBN)</p>
                             </div>
                         </div>

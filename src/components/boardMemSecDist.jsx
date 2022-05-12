@@ -14,27 +14,27 @@ const boardMemSecDist = () => {
                     <div className="col-lg-12">
                         <div className="row justify-content-center p-4">
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={melissa} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={melissa} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>1 - ABADEZA, MELISSA (NP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={alegre} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={alegre} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>2 - ALEGRE, JUNZAGITSIT (IND)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={vince} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={vince} alt="Candidate" className="img-fluid colored"/>
                                 <p className="mt-2"><span></span>3 - BALTAZAR, VINCE (PDPLBN)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={fernand} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={fernand} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>4 - IMPERIAL, FERNAND (NP)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={neil} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={neil} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>5 - MONTALLANA, NEIL (PDPLBN)</p>
                             </div>
                             <div className="col-lg-2 col-sm-4 col-md-4 col-6 mt-4">
-                                <img src={rolly} alt="Candidate Photo" className="img-fluid"/>
+                                <img src={rolly} alt="Candidate" className="img-fluid"/>
                                 <p className="mt-2"><span></span>6 - ROSAL, ROLLY (KANP)</p>
                             </div>
                         </div>
